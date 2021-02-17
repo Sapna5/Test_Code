@@ -2,7 +2,7 @@ public class Test1 {
 
   public static void main(String[] args) {
 
-    // year to be checked
+    // year to be checked 
     int year = 1996;
     boolean leap = false;
 
@@ -33,4 +33,4 @@ public class Test1 {
     else
       System.out.println(year + " is not a leap year.");
   }
-} //end
+} //end of file
