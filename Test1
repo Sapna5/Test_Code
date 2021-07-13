@@ -4,7 +4,7 @@ public class Test1 {
 
     // year to be checked
     int year = 1996;
-    boolean leap = false;
+    boolean isleap = false;
 
     // if the year is divided by 4
     if (year % 4 == 0) {
